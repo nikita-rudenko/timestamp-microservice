@@ -22,7 +22,7 @@ run npm install:
 
 then:
 
-`$ npm start` OR `$ node server`
+`$ npm start` or `$ node server`
 
 visit: `http://localhost:PORT`
 
@@ -33,4 +33,6 @@ visit: `http://localhost:PORT`
 
 #### Example output:
 
-- { "unix": 1450137600, "natural": "December 15, 2015" }
+- { "unix": 1450137600, "utc": "December 15, 2015" }
+
+#### Live on [Glitch](https://few-edger.glitch.me/)
